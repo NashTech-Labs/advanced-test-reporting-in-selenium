@@ -29,7 +29,9 @@ This class generate the report.
 * First load the properties file. And set the report path.
 * Set the log with status with test case - 
 		(context.getPassedTests(), LogStatus.PASS);
+		
 		(context.getFailedTests(), LogStatus.FAIL);
+		
 		(context.getSkippedTests(), LogStatus.SKIP);
 * Set the description of each test case with using .getParameters()[0]toString()
 * Add the Time calendar.
