@@ -28,6 +28,7 @@ We have a separate package for Com and TestCase and Listeners. All web page rela
 This class generate the report.
 * First load the properties file. And set the report path.
 * Set the log with status with test case - 
+
 		(context.getPassedTests(), LogStatus.PASS);
 		
 		(context.getFailedTests(), LogStatus.FAIL);
