@@ -49,6 +49,7 @@ This class generate the report.
 
 
 ### Summary of Report
+![Screenshot from 2021-03-18 17-44-45](https://user-images.githubusercontent.com/43197101/111680071-d9057080-8847-11eb-959d-8c6675417aac.png)
 
 
 
